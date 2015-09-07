@@ -1,11 +1,11 @@
-#program example 1
-#salary = int(input("¿ù±Ş: "))
-#bonus = int(input("º¸³Ê½º: "))
+ï»¿#program example 1
+#salary = int(input("ì›”ê¸‰: "))
+#bonus = int(input("ë³´ë„ˆìŠ¤: "))
 #payCheck = salary + bonus
 #print(payCheck)
-#print(type(payCheck)) #Å¸ÀÔÀ» È®ÀÎÇÏ´Â ¹æ¹ı
+#print(type(payCheck)) #íƒ€ì…ì„ í™•ì¸í•˜ëŠ” ë°©ë²•
 
-#ÁÖ¼®Ã³¸® : ctr +kc  ,  ÇØÁ¦ : ctr + ku
+#ì£¼ì„ì²˜ë¦¬ : ctr +kc  ,  í•´ì œ : ctr + ku
 
 #name = "junha"
 #print(name[-2])
@@ -22,6 +22,6 @@
 a = ","
 print(a.join("abcd"))
 
-answer = input("Á¾·áÇÒ±î¿ä? ")
+answer = input("ì¢…ë£Œí• ê¹Œìš”? ")
 
 print(answer.upper())
